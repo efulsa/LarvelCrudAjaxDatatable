@@ -1,0 +1,5 @@
+$(function () {
+    $('.textarea').summernote()
+})
+
+
